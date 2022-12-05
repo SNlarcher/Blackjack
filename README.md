@@ -2,6 +2,6 @@
 
 Proyecto para practicar JS usando Vite
 
--Clonar repositorio
--npm install
--npm npm run dev
+1. Clonar repositorio
+2. npm install
+3. npm npm run dev
